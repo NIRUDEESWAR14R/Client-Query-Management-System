@@ -11,6 +11,7 @@ Data organizing and cleaning using Pandas
 EDA (Exploratory Data Analysis) and visualization
 Statistics & performance tracking
 Maintainable and portable code design
+
 🏢 Domain
 SQL / Data Engineering / Python
 💡 Problem Statement
