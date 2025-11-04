@@ -101,7 +101,6 @@ query_closed_time	Timestamp when closed
 
 Client_query_management_system/
 │
-
 ├── Data/
 │   └── queries.csv
 │
