@@ -98,22 +98,8 @@ query_created_time	Timestamp when created
 query_closed_time	Timestamp when closed
 
 📁 Folder Structure
+![FLOW](https://github.com/user-attachments/assets/57337b4c-5e3c-4e8d-8d9b-a7d203d88f05)
 
-Client_query_management_system/
-│
-├── Data/
-│   └── queries.csv
-│
-├── src/
-│   ├── create_db_tables.py
-│   ├── load_csv_to_mysql.py
-│
-├── env/
-│   └── (Virtual environment)
-│
-├── streamlit_app.py
-├── requirements.txt
-└── README.md
 
 
 💻 Setup Instructions
